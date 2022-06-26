@@ -1,0 +1,6 @@
+playsound==1.2.2
+translators
+time
+playsound
+gtts
+SpeechRecognition
